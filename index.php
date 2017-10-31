@@ -1,5 +1,5 @@
 <?php
 
-echo "index.php";
-echo "index1.php"
-echo ;
+echo "index.php"
+echo "index1.php";
+echo "checkout";
